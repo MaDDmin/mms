@@ -4,7 +4,7 @@
 <node CREATED="1482149621367" ID="ID_1391873210" MODIFIED="1482149626549" POSITION="right" TEXT="DESEMBRE">
 <node CREATED="1482149658942" ID="ID_1096773859" MODIFIED="1482149688045" TEXT="19DILLUNS">
 <node CREATED="1482149703399" ID="ID_254155864" MODIFIED="1482149738082" TEXT="FETS">
-<node CREATED="1482197931922" ID="ID_1261535768" MODIFIED="1482198738934" TEXT="Coses apreses">
+<node CREATED="1482197931922" ID="ID_1261535768" MODIFIED="1482199521231" TEXT="Coses apreses">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -18,6 +18,21 @@
     </p>
     <p>
       No vull parar.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Altre detall que apareix a la confe &#233;s el de console.time(&quot;sum&quot;) i console.timeEnd(&quot;sum&quot;). Aquestes ferramentes cronometren una operaci&#243; i mostren el resultat a la consola. Tamb&#233; he refrescat la mem&#242;ria sobre la import&#224;ncia dels costs en les operacions O(x) en els dissenys dels algoritmes.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Ser&#224; convenient accel&#183;lerar amb JS. L'altre dia vaig descobrir un canal que me va sorprendre per la utilitat i lo simp&#224;tic del xaval: &quot;Funfunfunction&quot;. Li farem forat.
+    </p>
+    <p>
+      
     </p>
   </body>
 </html>
