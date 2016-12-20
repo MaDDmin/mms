@@ -1,8 +1,8 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1482149608170" ID="ID_29907350" MODIFIED="1482149620552" TEXT="2016">
-<node CREATED="1482149621367" ID="ID_1391873210" MODIFIED="1482149626549" POSITION="right" TEXT="DESEMBRE">
-<node CREATED="1482149658942" ID="ID_1096773859" MODIFIED="1482149688045" TEXT="19DILLUNS">
+<node CREATED="1482149621367" ID="ID_1391873210" MODIFIED="1482230582454" POSITION="right" TEXT="DESEMBRE">
+<node CREATED="1482149658942" ID="ID_1096773859" MODIFIED="1482230827456" TEXT="19DILLUNS">
 <node CREATED="1482149703399" ID="ID_254155864" MODIFIED="1482149738082" TEXT="FETS">
 <node CREATED="1482197931922" ID="ID_1261535768" MODIFIED="1482199521231" TEXT="Coses apreses">
 <richcontent TYPE="NOTE"><html>
@@ -35,11 +35,11 @@
       
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1482149711300" ID="ID_468004220" MODIFIED="1482149732156" TEXT="OBJECTIUS">
+<node CREATED="1482149711300" ID="ID_468004220" MODIFIED="1482230822986" TEXT="OBJECTIUS">
+<arrowlink DESTINATION="ID_41936169" ENDARROW="Default" ENDINCLINATION="22;0;" ID="Arrow_ID_1584564111" STARTARROW="None" STARTINCLINATION="22;0;"/>
 <node CREATED="1482149741066" ID="ID_1270941850" MODIFIED="1482150047609" TEXT="Exercicis EXTRA Tuto React">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -53,8 +53,17 @@
       Array.concat() no fa el que hauria de fer amb l'actualitzaci&#243; de l'estat... en fi. Continue. Porte ja no s&#233; quants dies amb aquesta xorrada... per&#242; suposse que aix&#237; &#233;s com s'apren.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1482230586367" ID="ID_179490618" MODIFIED="1482230596252" TEXT="20DIMARTS">
+<node CREATED="1482230761462" ID="ID_1467837663" MODIFIED="1482230782818" TEXT="FETS"/>
+<node CREATED="1482230600277" ID="ID_41936169" MODIFIED="1482230822986" TEXT="OBJECTIUS">
+<node CREATED="1482230843835" ID="ID_437299051" MODIFIED="1482230859144" TEXT="IMMUTABLE.JS"/>
+<node CREATED="1482231420063" ID="ID_1729740259" MODIFIED="1482231487816" TEXT="Text de valoraci&#xf3; i comiat per a Facebook.">
+<node CREATED="1482231529045" ID="ID_825867158" MODIFIED="1482231545641" TEXT="Moltes batalles..."/>
+<node CREATED="1482231615005" ID="ID_492230818" MODIFIED="1482231654556" TEXT="Se senten les cadenes... quan t&apos;alliberes!"/>
 </node>
 </node>
 </node>
