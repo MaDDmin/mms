@@ -1,4 +1,4 @@
-<map version="0.9.0" NAME="2016" DATE="1482264691000" FILE="2016.mm" MAPID="lVG19jHOTqO7Fox+VYZiTA==" BGCOLOR="#F2F3F7">
+<map version="0.9.0" NAME="2016" DATE="1482340985000" FILE="2016.mm" MAPID="XpVPAXdKQymq/wGNgfcHbA==" BGCOLOR="#F2F3F7">
 <node ID="ID_29907350" TEXT="2016" COLOR="#000034" TSGSTYLE="NodeMasterGraphic">
 <font NAME="SansSerif" SIZE="16" />
 <edge COLOR="#309EFF" />
@@ -35,6 +35,7 @@
 </node>
 <node ID="ID_468004220" TEXT="OBJECTIUS" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
 <edge COLOR="#309EFF" />
+<arrowlink ARROW_ID="ID_6388086800" DESTINATION="ID_41936169" STARTINCLINATION="22;0;" ENDINCLINATION="22;0;" STARTARROW="None" ENDARROW="Default" />
 <node ID="ID_1270941850" TEXT="Exercicis EXTRA Tuto React" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
 <edge COLOR="#309EFF" />
 <richcontent TYPE="NOTE">
@@ -46,7 +47,9 @@
 </node>
 </node>
 </node>
-<node ID="ID_1273146636" TEXT="AUX" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<node ID="ID_179490618" TEXT="20DIMARTS" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+<node ID="ID_1467837663" TEXT="FETS" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
 <edge COLOR="#309EFF" />
 <node ID="ID_8563047081" TEXT="Idees" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
 <edge COLOR="#309EFF" />
@@ -80,6 +83,32 @@ La distribuci&#243; de tasques &#233;s un aspecte clau. Les tasques s&#243;n imp
 <pre>Ens separen abismes plens d'ignor&#224;ncia. Quan acabem amb ella, s'obrir&#224;n tants ponts entre nosaltres que potser arribem a comprendre coses molt profundes. El que s&#237; aconseguirem sense cap mena de dubtes &#233;s millorar la situaci&#243; actual. Trobarem remeis. I una nova era de renaixements comen&#231;ar&#224; per fi.</pre>
 </richcontent>
 </node>
+</node>
+</node>
+<node ID="ID_41936169" TEXT="OBJECTIUS" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+<arrowlink ARROW_ID="ID_6745265547" DESTINATION="ID_0888276761" STARTINCLINATION="15;13;" ENDINCLINATION="56;-47;" STARTARROW="None" ENDARROW="Default" />
+<node ID="ID_437299051" TEXT="IMMUTABLE.JS" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+</node>
+<node ID="ID_1729740259" TEXT="Text de valoraci&#243; i comiat per a Facebook." COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+<node ID="ID_825867158" TEXT="Moltes batalles..." COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+</node>
+<node ID="ID_492230818" TEXT="Se senten les cadenes... quan t'alliberes!" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+</node>
+</node>
+</node>
+</node>
+<node ID="ID_4647375461" TEXT="21DIMECRES" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+<node ID="ID_0888276761" TEXT="OBJECTIUS" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+<richcontent TYPE="NOTE">
+<pre>Seguim amb IMMUTABLE.</pre>
+</richcontent>
 </node>
 </node>
 </node>
