@@ -95,7 +95,7 @@ La distribuci&#243; de tasques &#233;s un aspecte clau. Les tasques s&#243;n imp
 </node>
 </node>
 </node>
-<node COLOR="#000034" CREATED="1482341243331" FOLDED="true" ID="ID_4647375461" MODIFIED="1482345150784" TEXT="21DIMECRES">
+<node COLOR="#000034" CREATED="1482341243331" ID="ID_4647375461" MODIFIED="1482365887746" TEXT="21DIMECRES">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -111,6 +111,19 @@ La distribuci&#243; de tasques &#233;s un aspecte clau. Les tasques s&#243;n imp
 <node COLOR="#000034" CREATED="1482341243332" ID="ID_0888276761" MODIFIED="1482341243332" TEXT="OBJECTIUS">
 <richcontent TYPE="NOTE"><pre>Seguim amb IMMUTABLE.</pre></richcontent>
 <edge COLOR="#309eff"/>
+</node>
+<node CREATED="1482365904351" ID="ID_1284694766" MODIFIED="1482366063868" TEXT="Amb la dist&#xe0;ncia">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#201;s amb la dist&#224;ncia que es perd la identitat. Es conf&#243;n i es revela c&#243;m &#233;s, compartida i difosa.
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
