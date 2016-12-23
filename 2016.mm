@@ -95,7 +95,7 @@ La distribuci&#243; de tasques &#233;s un aspecte clau. Les tasques s&#243;n imp
 </node>
 </node>
 </node>
-<node COLOR="#000034" CREATED="1482341243331" ID="ID_4647375461" MODIFIED="1482365887746" TEXT="21DIMECRES">
+<node COLOR="#000034" CREATED="1482341243331" FOLDED="true" ID="ID_4647375461" MODIFIED="1482420038296" TEXT="21DIMECRES">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -105,8 +105,7 @@ La distribuci&#243; de tasques &#233;s un aspecte clau. Les tasques s&#243;n imp
       Sembla que tot me pesa massa. Per&#242; vaig organitzant-me... Veig que roda... lent&#237;ssim per&#242; roda. Digam que &#233;s molta cosa la que &#233;s arrastrada... ANEM LLUNY! I a&#231;&#242; que estem constru&#239;nt amb tant d'esfor&#231; i sacrifici &#233;s IMPORTANT&#205;SSIM! Fem tard. Per&#242; aix&#242; HA PASSAT SEMPRE. Sabent-ho ara, caldr&#224; afian&#231;ar la dilig&#232;ncia i guanyar in&#232;rcia. Estic m&#233;s que segur que el principi de la in&#232;rcia &#233;s tamb&#233; aplicable ac&#237;. AVANT!
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#309eff"/>
 <node COLOR="#000034" CREATED="1482341243332" ID="ID_0888276761" MODIFIED="1482341243332" TEXT="OBJECTIUS">
 <richcontent TYPE="NOTE"><pre>Seguim amb IMMUTABLE.</pre></richcontent>
@@ -122,8 +121,55 @@ La distribuci&#243; de tasques &#233;s un aspecte clau. Les tasques s&#243;n imp
       &#201;s amb la dist&#224;ncia que es perd la identitat. Es conf&#243;n i es revela c&#243;m &#233;s, compartida i difosa.
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1482420038932" ID="ID_1715688645" MODIFIED="1482420044883" TEXT="22DIJOUS">
+<node CREATED="1482420053002" ID="ID_1278310819" MODIFIED="1482420065947" TEXT="TEXT">
+<node CREATED="1482420069007" ID="ID_1146121884" MODIFIED="1482421680472" TEXT="IMMUTABILITAT">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Buscant el terme &quot;immutable&quot; a internet ha aparegut un enlla&#231; on es defensava la immutabilitat de D&#233;u; que &#233;s lo &#250;nic que ho &#233;s.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Si te poses, pots trobar una dualitat a cada aspecte de la vida, dos punts de vista completament oposats per&#242; complementaris. El primer i el m&#233;s f&#224;cil d'entendre, &#233;s el teu, el que tens des de la teua pr&#242;pia perspectiva com a individu. El 'jo' mateix. L'altre, seria el 'no-jo'. Una mena d'imatge especular a la inversa del 'jo' que tamb&#233;, podria obeir, segons se'l rebusque a una individualitat inc&#242;moda... incomprensible, metaf&#237;sica i, en ess&#232;ncia aliena a t&#250; mateix. Seria sospitable que aquesta perspectiva f&#243;ra compartida per cada individu... o no.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1482510834883" ID="ID_450700878" MODIFIED="1482510841436" TEXT="23DIVENDRES">
+<node CREATED="1482510849864" ID="ID_516698692" MODIFIED="1482510856874" TEXT="TEXT">
+<node CREATED="1482510860106" ID="ID_1594042481" MODIFIED="1482511368675" TEXT="Llenguatge Universal">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Us sona la teoria de que si una civilitzaci&#243; intel&#183;ligent intent&#233;s posar-se en contacte amb nosaltres ho faria mitjan&#231;ant el llenguatge universal de la ci&#232;ncia... les matem&#224;tiques, no &#233;s nova... per contra, no sembla haver-se tingut massa en compte. HOLA PLANTES!... Fractals? Hmm... en serio!? O ADN! Per&#242; c&#243;m pot ser possible!??? Molt queda per descobrir, per&#242; sobretot per assimilar i contextualitzar! Amb tant que sabem, tenim un nivell educatiu est&#224;ndar deshonrosament baix.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Toca posar-li remei.
+    </p>
+    <p>
+      
+    </p>
+  </body>
 </html>
 </richcontent>
+</node>
 </node>
 </node>
 </node>
