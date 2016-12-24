@@ -1,4 +1,4 @@
-<map version="0.9.0" NAME="2016" DATE="1482512010000" FILE="2016.mm" MAPID="3UmrgsnMQlG667mEOnk18g==" BGCOLOR="#F2F3F7">
+<map version="0.9.0" NAME="2016" DATE="1482580512000" FILE="2016.mm" MAPID="sSHtmO/8QPGxsxCHvw7W3w==" BGCOLOR="#F2F3F7">
 <node ID="ID_29907350" TEXT="2016" COLOR="#000034" TSGSTYLE="NodeMasterGraphic">
 <font NAME="SansSerif" SIZE="16" />
 <edge COLOR="#309EFF" />
@@ -154,6 +154,16 @@ La distribuci&#243; de tasques &#233;s un aspecte clau. Les tasques s&#243;n imp
       Toca posar-li remei.</pre>
 </richcontent>
 </node>
+</node>
+</node>
+<node ID="ID_2155463837" TEXT="24DISSABTE" COLOR="#000034" TSGSTYLE="NodeTextGraphic">
+<edge COLOR="#309EFF" />
+<node ID="ID_1472630760" TEXT="Cal traslladar els mapes conceptuals del #GP a #MMs." COLOR="#000034" TSGSTYLE="NodeBasicGraphic">
+<edge COLOR="#DBFD34" />
+<richcontent TYPE="NOTE">
+<pre>Els motius s&#243;n diversos. 
+Els pujar&#233; a GitHub amb el meu correu de Google i nom oficial. Ser&#224; accessible a tot el m&#243;n. I ser&#224; dependent de programari lliure.</pre>
+</richcontent>
 </node>
 </node>
 </node>
