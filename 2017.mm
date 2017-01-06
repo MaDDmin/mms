@@ -31,7 +31,7 @@
 </node>
 <node CREATED="1483723601827" ID="ID_394114295" MODIFIED="1483723611952" POSITION="right" TEXT="6">
 <node CREATED="1483723614064" ID="ID_1112581523" MODIFIED="1483723616674" TEXT="Text">
-<node CREATED="1483723619493" ID="ID_1994810931" MODIFIED="1483724222402" TEXT="I l&apos;animalet encara all&#xed;, tancat.">
+<node CREATED="1483723619493" ID="ID_1994810931" MODIFIED="1483734273590" TEXT="I l&apos;animalet encara all&#xed;, tancat.">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -51,6 +51,24 @@
     </p>
     <p>
       Molt mal. El vull ja a casa. Estiga b&#233; ja. Si s'ha de morir, que se muiga tranquil, en casa, entre nosaltres. Me fan dubtar si &#233;s pitjor el remei que la pr&#242;pia enfermetat, literalment. Si al menys vegeres que saben el qu&#232; fan... per&#242; s'aferren a mantindre'l tancat encara que no &#233;s en absolut necessari. En principi el porten ara. Veurem.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Has vist com s&#237; que ho sabia jo... S'han deixat el gos all&#237;. CO-LLO-NUT.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Male&#239;da borregor! En una caixa el portar&#224;n! Ja me puc llavar les mans de l'&#218;nic ja... Podeu mesurar la meua impot&#232;ncia??? Qu&#232; va!
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Ve tot del mateix lloc. No hauriem de passar per aquesta situaci&#243; en una societat realment avan&#231;ada i lliure. Per qu&#232; dic ara a&#231;&#242;? Doncs &#233;s clar, <b>un servei com aquest hauria de ser gestionat p&#250;blicament, en obert, amb informaci&#243; oberta a opinions, a participaci&#243;...</b>&#160;Molt b&#233;. Moltes idees. Una altra per a la col&#183;lecci&#243;. Veurem si alguna veu la llum.
     </p>
   </body>
 </html>
